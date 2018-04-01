@@ -3,4 +3,4 @@ This is simple console tic-tac-toe game.It consists of two game modes: single-pl
 Project may be easily extandable for any NxN tic-tac-toe-based game.
 Thanks for the attention.
 
-GitHub link:
+GitHub link: https://github.com/EddieKro
